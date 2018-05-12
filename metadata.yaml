@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8741'
     url: http://www.gutenberg.org/2009/agents/8741
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19550#Natural-History-of-the-Mammalia-of-India-and-Ceylon
 gutenberg_bookshelf:
 - Animal
 - India
